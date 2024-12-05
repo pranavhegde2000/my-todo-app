@@ -1,0 +1,8 @@
+run
+sleep
+eat
+jog
+code
+read
+study
+programming
